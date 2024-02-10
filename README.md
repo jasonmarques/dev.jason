@@ -45,6 +45,5 @@
 
 <h2> Graphs </h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonmarques&langs_count=8&theme=radical&layout=compact)
-
-![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=jasonmarques&show_icons=true&theme=radical)      
+![Jason top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonmarques&show&theme=blue-white)
+![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=jasonmarques&show_icons=true&theme=blue-white)      
