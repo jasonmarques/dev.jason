@@ -45,5 +45,4 @@
 
 <h2> Graphs </h2>
 
-![Jason top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonmarques&show&theme=blue-white)
-![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=jasonmarques&show_icons=true&theme=blue-white)      
+![Jason top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonmarques&show&theme=blue-white)    
